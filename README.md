@@ -1,5 +1,7 @@
 # 💫 About Me: 
-👨‍💻 I’m currently working on mastering DSA and building strong coding fundamentals <br>🤝 I’m looking to collaborate on open-source and real-world projects <br>🆘 I’m looking for help with system design and advanced problem-solving <br>🌱 I’m currently learning C++, OOPs, and Web Development <br>💬 Ask me about coding, problem-solving strategies, and tech basics <br>⚡ Fun fact: I enjoy debugging more than writing code 😄 
+ 👨‍💻 DSA enthusiast focused on strong coding fundamentals and real-world development <br>
+🌱 Learning C++, OOPs, and Web Development while exploring advanced problem-solving <br>
+🤝 Open to collaboration, innovation, and building impactful projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amit_23572) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amitkumarsingh1527) 
