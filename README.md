@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 👨‍💻 DSA enthusiast focused on strong coding fundamentals and real-world development <br>
-🌱 Learning C++, OOPs, and Web Development while exploring advanced problem-solving <br>
+🌱 Learning C++, OOPs, DBMS, OS, and SQL while exploring advanced problem-solving <br>
 🤝 Open to collaboration, innovation, and building impactful projects
 
 # 🔗 Socials:
