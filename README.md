@@ -1,8 +1,9 @@
 # 👨‍💻 About Me
 
-👨‍💻 DSA enthusiast focused on strong coding fundamentals and real-world development. <br>
-🌱 Learning C++, OOPs, DBMS, OS, SQL, and exploring AI & advanced problem-solving. <br>
-🤝 Open to collaboration, innovation, and building impactful software projects.
+👨‍💻 DSA enthusiast with a strong focus on C++, problem-solving, and software development. <br>
+🌱 Learning Python, SQL, React, and exploring AI/ML. <br>
+🚀 Building projects, strengthening my skills, and preparing for real-world software engineering opportunities. <br>
+🤝 Open to collaboration and internship opportunities.
 
 # 🔗 Connect with Me
 
