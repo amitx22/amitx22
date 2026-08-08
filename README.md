@@ -2,7 +2,7 @@
 
 👨‍💻 DSA enthusiast with a strong focus on C++, problem-solving, and software development. <br>
 🌱 Learning Python, SQL, React, and exploring AI/ML. <br>
-🚀 Building projects, strengthening my skills, and preparing for real-world software engineering opportunities. <br>
+🚀 Building projects, strengthening my skills, and preparing for real-world software engineering       opportunities. <br>
 🤝 Open to collaboration and internship opportunities.
 
 # 🔗 Connect with Me
