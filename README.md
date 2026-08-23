@@ -47,4 +47,8 @@
 <img src="https://raw.githubusercontent.com/amitx22/amitx22/output/github-contribution-grid-snake.svg"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=amitx22&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=amitx22&style=for-the-badge&color=blue) 
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
