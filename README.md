@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="amitx22's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 👨‍💻 About Me
 
 👨‍💻 DSA enthusiast with a strong focus on C++, problem-solving, and software development. <br>
