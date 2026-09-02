@@ -90,6 +90,8 @@
 <img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>FastAPI
 </td>
 
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="55"/><br>JWT</td>
+
 <td align="center">
 <img src="https://cdn.simpleicons.org/streamlit" width="55"/><br>Streamlit
 </td>
