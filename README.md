@@ -11,11 +11,40 @@
 🚀 Building projects, strengthening my skills, and preparing for real-world software engineering       opportunities. <br>
 🤝 Open to collaboration and internship opportunities.
 
-# 🔗 Connect with Me
+## 🔗 Connect With Me
+<table>
+<tr>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarsingh1527)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amit_23572)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumarsinghtelari@gmail.com)
+<td align="center">
+<a href="https://www.linkedin.com/in/amitkumarsingh1527">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.instagram.com/amit_23572">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55"/><br>
+Instagram
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:amitkumarsinghtelari@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"/><br>
+Gmail
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/amitx22">
+<img src="https://cdn.simpleicons.org/github/181717" width="55"/><br>
+GitHub
+</a>
+</td>
+
+</tr>
+</table>
 
  ## 💻 Languages
 
@@ -90,11 +119,12 @@
 <img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>FastAPI
 </td>
 
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=api" width="55"/><br>REST API
+</td>
+
 <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" width="55"/><br>JWT</td>
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/streamlit" width="55"/><br>Streamlit
-</td>
 </tr>
 </table>
 
@@ -146,6 +176,10 @@
 
 <td align="center">
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="55"/><br>MLflow
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/streamlit" width="55"/><br>Streamlit
 </td>
 </tr>
 </table>
@@ -211,6 +245,8 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker
 </td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55"/><br>AWS</td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=githubactions" width="55"/><br>GitHub Actions
