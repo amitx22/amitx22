@@ -178,9 +178,6 @@ GitHub
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="55"/><br>MLflow
 </td>
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/streamlit" width="55"/><br>Streamlit
-</td>
 </tr>
 </table>
 
@@ -253,11 +250,40 @@ GitHub
 </td>
 </tr>
 </table>
+
 ---
+
+## 🚀 Deployment & Platforms
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55"/><br>
+<b>Streamlit</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/vercel/000000" width="55"/><br>
+<b>Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="55"/><br>
+<b>Render</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="55"/><br>
+<b>Docker</b>
+</td>
+
+</tr>
+</table>
+
 
 
 # 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=amitx22&theme=tokyonight&hide_border=true&show_icons=true)
 
 ![](https://streak-stats.demolab.com?user=amitx22&theme=tokyonight&hide_border=true)
@@ -275,5 +301,5 @@ GitHub
 ![](https://komarev.com/ghpvc/?username=amitx22&style=for-the-badge&color=blue) 
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+💻 Thanks for visiting! Keep Building. Keep Learning. 🚀
 </h3>
