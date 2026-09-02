@@ -64,6 +64,11 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="55"/><br>React
 </td>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="55"/><br>Vite</td>
+
 </tr>
 </table>
 
@@ -86,7 +91,7 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=streamlit" width="55"/><br>Streamlit
+<img src="https://cdn.simpleicons.org/streamlit" width="55"/><br>Streamlit
 </td>
 </tr>
 </table>
@@ -126,11 +131,11 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=numpy" width="55"/><br>NumPy
+<img src="https://cdn.simpleicons.org/numpy/013243" width="55"/><br>NumPy
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=pandas" width="55"/><br>Pandas
+<img src="https://cdn.simpleicons.org/pandas/150458" width="55"/><br>Pandas
 </td>
 
 <td align="center">
@@ -138,7 +143,7 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mlflow" width="55"/><br>MLflow
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="55"/><br>MLflow
 </td>
 </tr>
 </table>
