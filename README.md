@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-👨‍💻 DSA enthusiast with a strong focus on **C++, Problem-solving, and Software developer**. <br>
+👨‍💻 **DSA** enthusiast with a strong focus on **C++, Problem-solving, and Software developer**. <br>
 🌱 Learning **Python, JavaScript, SQL, MERN**, and exploring **AI/ML**. <br>
 ☁️ Exploring **AWS, Docker, CI/CD & GitHub Actions** to build and deploy production-ready applications
 🚀 Building projects, strengthening my skills, and preparing for real-world software engineering opportunities. <br>
