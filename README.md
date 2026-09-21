@@ -44,6 +44,13 @@ GitHub
 </a>
 </td>
 
+<td align="center">
+<a href="https://x.com/AMIT23572">
+<img src="https://cdn.simpleicons.org/x/000000" width="55"/><br>
+X
+</a>
+</td>
+
 </tr>
 </table>
 
