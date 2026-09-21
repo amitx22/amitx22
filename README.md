@@ -59,11 +59,11 @@ X
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>C
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br>C
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++
 </td>
 
 <td align="center">
