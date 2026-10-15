@@ -66,16 +66,13 @@ X
 <img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++
 </td>
 
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>Java
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript
 </td>
 
 <td align="center">
